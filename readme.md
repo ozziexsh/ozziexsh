@@ -1,4 +1,4 @@
-👋 Hey, I'm Oz. I've spent the past half decade both working on teams as a full stack developer and in leadership positions. My last role was as Director of Technology at a great company called SafetyTek, but as of right now I'm currently taking some time off to work on [TravoShare](https://travoshare.com) and explore other projects.
+👋 Hey, I'm Oz
 
 A bit about me:
 
